@@ -1,0 +1,7 @@
+{
+  "name": "redicciones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
